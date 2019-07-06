@@ -18,6 +18,7 @@ favicon: favicon.ico
 repository: MingzhouLin/MingzhouLin.github.io
 github_url: https://github.com/MingzhouLin
 url: https://MingzhouLin.github.io
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
